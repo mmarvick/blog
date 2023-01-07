@@ -25,7 +25,7 @@ author:
 description: >-
   Things that I'm learning and writing about.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.mmarvick.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.michaelmarvick.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 social:
   twitter: MichaelMarvick
